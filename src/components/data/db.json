@@ -1,0 +1,31 @@
+{
+  "username": [
+    {
+      "id": 1,
+      "name": "Arun Rajbhar",
+      "salary": "55",
+      "status": "Single",
+      "age": 55,
+      "department": "Mern",
+      "address": "Om shanti dham chawl Santosh Bhuwan Nallasopara"
+    },
+    {
+      "name": "luci",
+      "age": "45",
+      "address": "5",
+      "salary": "8",
+      "status": "Single",
+      "department": "Mern",
+      "id": 2
+    },
+    {
+      "name": "luci",
+      "age": "45",
+      "address": "5",
+      "salary": "8",
+      "status": "Single",
+      "department": "Mern",
+      "id": 3
+    }
+  ]
+}
